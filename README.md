@@ -38,4 +38,3 @@ use `./telegamer.sh ` for Autolaunch
 
  * [mohammad](https://telegram.me/mohammad_rajabiyan)
  
-
